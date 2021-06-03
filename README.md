@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I like to :ski:  
-
 <!--
 **kevin-reilly/kevin-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
